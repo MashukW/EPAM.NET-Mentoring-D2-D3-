@@ -1,0 +1,13 @@
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.csprojResolveAssemblyReference.cache
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\bin\Debug\Task2.ExpressionTransformation.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task2.ExpressionTransformation\obj\Debug\Task2.ExpressionTransformation.pdb

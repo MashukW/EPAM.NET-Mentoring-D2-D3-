@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The best library</title>
+    <link>https://www.thebestlibrary.com</link>
+    <description>The best library contains a lot famous books</description>
+    <item>
+      <title>COM and .NET Component Services</title>
+      <link>http://my.safaribooksonline.com/0-596-00103-7/</link>
+      <updated>2016-01-05</updated>
+      <description>
+      COM &amp; .NET Component Services provides both traditional COM programmers and new .NET
+      component developers with the information they need to begin developing applications that take full advantage of COM+ services.
+      This book focuses on COM+ services, including support for transactions, queued components, events, concurrency management, and security
+    </description>
+    </item>
+    <item>
+      <title>Midnight Rain</title>
+      <updated>2017-01-01</updated>
+      <description>
+      A former architect battles corporate zombies,
+      an evil sorceress, and her own childhood to become queen
+      of the world.
+    </description>
+    </item>
+    <item>
+      <title>Maeve Ascendant</title>
+      <updated>2016-01-05</updated>
+      <description>
+      After the collapse of a nanotechnology
+      society in England, the young survivors lay the
+      foundation for a new society.
+    </description>
+    </item>
+    <item>
+      <title>Oberon's Legacy</title>
+      <updated>2012-03-01</updated>
+      <description>
+      In post-apocalypse England, the mysterious
+      agent known only as Oberon helps to create a new life
+      for the inhabitants of London. Sequel to Maeve
+      Ascendant.
+    </description>
+    </item>
+    <item>
+      <title>The Sundered Grail</title>
+      <updated>2016-01-05</updated>
+      <description>
+      The two daughters of Maeve, half-sisters,
+      battle one another for control of England. Sequel to
+      Oberon's Legacy.
+    </description>
+    </item>
+    <item>
+      <title>Lover Birds</title>
+      <updated>2016-01-05</updated>
+      <description>
+      When Carla meets Paul at an ornithology
+      conference, tempers fly as feathers get ruffled.
+    </description>
+    </item>
+    <item>
+      <title>Splish Splash</title>
+      <updated>2012-01-05</updated>
+      <description>
+      A deep sea diver finds true love twenty
+      thousand leagues beneath the sea.
+    </description>
+    </item>
+    <item>
+      <title>Creepy Crawlies</title>
+      <updated>2011-01-05</updated>
+      <description>
+      An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.
+    </description>
+    </item>
+    <item>
+      <title>Paradox Lost</title>
+      <updated>2016-01-05</updated>
+      <description>
+      After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems
+      of being quantum.
+    </description>
+    </item>
+    <item>
+      <title>Microsoft .NET: The Programming Bible</title>
+      <updated>2014-10-01</updated>
+      <description>
+      Microsoft's .NET initiative is explored in
+      detail in this deep programmer's reference.
+    </description>
+    </item>
+    <item>
+      <title>MSXML3: A Comprehensive Guide</title>
+      <updated>2010-03-15</updated>
+      <description>
+      The Microsoft MSXML3 parser is covered in
+      detail, with attention to XML DOM interfaces, XSLT processing,
+      SAX and more.
+    </description>
+    </item>
+    <item>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <updated>2011-04-25</updated>
+      <description>
+      Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are
+      integrated into a comprehensive development
+      environment.
+    </description>
+    </item>
+  </channel>
+</rss>

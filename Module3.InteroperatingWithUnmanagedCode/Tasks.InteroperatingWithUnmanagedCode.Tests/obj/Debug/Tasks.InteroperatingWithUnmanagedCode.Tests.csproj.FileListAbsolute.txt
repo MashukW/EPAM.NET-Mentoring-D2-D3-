@@ -1,0 +1,16 @@
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.pdb
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.csprojResolveAssemblyReference.cache
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.pdb
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.pdb
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode.Tests\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.Tests.pdb

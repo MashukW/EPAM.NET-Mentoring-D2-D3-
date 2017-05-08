@@ -1,0 +1,52 @@
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.xml
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.csprojResolveAssemblyReference.cache
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.xml
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.csprojResolveAssemblyReference.cache
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task1.ClassMapper.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb

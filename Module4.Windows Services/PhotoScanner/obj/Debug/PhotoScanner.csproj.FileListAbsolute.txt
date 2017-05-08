@@ -1,0 +1,6 @@
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\PhotoScanner.exe.config
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\PhotoScanner.exe
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\PhotoScanner.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.exe
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.pdb

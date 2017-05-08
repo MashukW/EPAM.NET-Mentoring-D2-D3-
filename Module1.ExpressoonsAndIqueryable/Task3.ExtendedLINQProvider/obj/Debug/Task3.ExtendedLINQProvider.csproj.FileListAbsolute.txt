@@ -1,0 +1,28 @@
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.pdb
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.csprojResolveAssemblyReference.cache
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.dll
+F:\Projects\.NET Mentoring Program\Module1.ExpressionsAndIQueriable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.pdb
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsec.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsecCS.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\UriTemplate.Core.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsec.xml
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsecCS.xml
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.csprojResolveAssemblyReference.cache
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.dll
+F:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Task3.ExtendedLINQProvider.pdb
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsec.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsecCS.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\UriTemplate.Core.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsec.xml
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\FParsecCS.xml
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.dll
+D:\Projects\EPAM.NET Mentoring\Module1.ExpressoonsAndIqueryable\Task3.ExtendedLINQProvider\obj\Debug\Task3.ExtendedLINQProvider.pdb

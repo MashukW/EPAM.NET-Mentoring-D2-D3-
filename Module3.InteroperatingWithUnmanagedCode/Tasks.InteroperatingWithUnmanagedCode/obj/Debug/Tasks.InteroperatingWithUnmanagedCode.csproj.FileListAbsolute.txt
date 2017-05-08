@@ -1,0 +1,8 @@
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+F:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\bin\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.dll
+D:\Projects\EPAM.NET Mentoring\Module3.InteroperatingWithUnmanagedCode\Tasks.InteroperatingWithUnmanagedCode\obj\Debug\Tasks.InteroperatingWithUnmanagedCode.pdb
