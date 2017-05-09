@@ -12,3 +12,10 @@ D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\bin\D
 D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.csprojResolveAssemblyReference.cache
 D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.dll
 D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\bin\Debug\Tasks.AdvancedXML.Tests.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\bin\Debug\Tasks.AdvancedXML.Tests.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\bin\Debug\Tasks.AdvancedXML.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\bin\Debug\Tasks.AdvancedXML.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML.Tests\obj\Debug\Tasks.AdvancedXML.Tests.pdb

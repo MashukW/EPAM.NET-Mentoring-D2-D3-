@@ -47,6 +47,5 @@ D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task2.ExpressionTransformation.pdb
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\Task4.AdditionalRestructuringExpression.pdb
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\bin\Debug\nunit.framework.xml
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.csprojResolveAssemblyReference.cache
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module1.ExpressoonsAndIqueryable\Module1.ExpressoonsAndIqueryable.Tests\obj\Debug\Module1.ExpressoonsAndIqueryable.Tests.pdb
