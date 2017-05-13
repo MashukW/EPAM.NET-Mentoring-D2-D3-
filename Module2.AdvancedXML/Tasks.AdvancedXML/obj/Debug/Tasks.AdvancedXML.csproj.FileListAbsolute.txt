@@ -9,5 +9,6 @@ D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML\obj\Debug\T
 D:\Projects\EPAM.NET Mentoring\Module2.AdvancedXML\Tasks.AdvancedXML\obj\Debug\Tasks.AdvancedXML.pdb
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML\bin\Debug\Tasks.AdvancedXML.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML\bin\Debug\Tasks.AdvancedXML.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML\obj\Debug\Tasks.AdvancedXML.csprojResolveAssemblyReference.cache
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML\obj\Debug\Tasks.AdvancedXML.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module2.AdvancedXML\Tasks.AdvancedXML\obj\Debug\Tasks.AdvancedXML.pdb

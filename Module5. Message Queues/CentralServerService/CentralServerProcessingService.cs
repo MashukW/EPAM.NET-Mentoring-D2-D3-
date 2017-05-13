@@ -1,0 +1,6 @@
+﻿namespace CentralServerService
+{
+    class CentralServerProcessingService
+    {
+    }
+}

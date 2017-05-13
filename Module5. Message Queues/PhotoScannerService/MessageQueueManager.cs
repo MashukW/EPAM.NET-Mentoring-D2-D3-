@@ -1,0 +1,7 @@
+﻿namespace PhotoScannerService
+{
+    class MessageQueueManager
+    {
+
+    }
+}
