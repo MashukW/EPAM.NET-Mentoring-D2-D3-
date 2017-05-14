@@ -8,25 +8,25 @@ namespace PhotoScannerService
     {
         static void Main(string[] args)
         {
-            var _currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
-            var _inDirectory = Path.Combine(_currentDirectory, "input");
-            var _outDirectory = Path.Combine(_currentDirectory, "output");
-            var _tempDirectory = Path.Combine(_currentDirectory, "temp");
+            var currentDir = AppDomain.CurrentDomain.BaseDirectory;
+            var inDir = Path.Combine(currentDir, "in");
+            var tempDir = Path.Combine(currentDir, "temp");
 
-            HostFactory.Run(x =>
-            {
-                x.UseNLog();
-
-                x.Service(() => new PhotoProcessingService(_inDirectory, _outDirectory, _tempDirectory));
-
-                x.SetServiceName("Photo Processing Service");
-                x.SetDisplayName("Photo Service");
-                x.SetDescription("Photo Service");
-                x.StartAutomaticallyDelayed();
-                x.RunAsLocalSystem();
-            });
-
-            Console.ReadKey();
+            HostFactory.Run(
+                hostConf =>
+                {
+                    hostConf.Service<PhotoProcessingService>(
+                        s =>
+                        {
+                            s.ConstructUsing(() => new PhotoProcessingService(inDir, tempDir));
+                            s.WhenStarted(serv => serv.Start());
+                            s.WhenStopped(serv => serv.Stop());
+                        });
+                    hostConf.SetServiceName("PhotoProcessingService");
+                    hostConf.SetDisplayName("Photo Processing Service");
+                    hostConf.StartAutomaticallyDelayed();
+                    hostConf.RunAsLocalService();
+                });
         }
     }
 }

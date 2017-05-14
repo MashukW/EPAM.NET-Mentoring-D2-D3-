@@ -1,8 +1,7 @@
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\PhotoScannerService.exe.config
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\PhotoScannerService.exe
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\PhotoScannerService.pdb
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Microsoft.ServiceBus.dll
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\CommonModule.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.DocumentObjectModel.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.Rendering.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.RtfRendering.dll
@@ -11,8 +10,7 @@ D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerServi
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\PdfSharp.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Topshelf.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Topshelf.NLog.dll
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Microsoft.ServiceBus.xml
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\CommonModule.pdb
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.DocumentObjectModel.xml
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.Rendering.xml
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\PhotoScannerService\bin\Debug\MigraDoc.RtfRendering.xml

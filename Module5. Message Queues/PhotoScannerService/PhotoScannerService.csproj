@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0AC6E93-F03B-4B20-8047-3112E9D6ED49}</ProjectGuid>
+    <ProjectGuid>{183D586E-9870-4CFD-BD35-E6A545D74550}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>PhotoScannerService</RootNamespace>
     <AssemblyName>PhotoScannerService</AssemblyName>
@@ -32,12 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.ServiceBus, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\ServiceBus.v1_1.1.0.6\lib\net40-full\Microsoft.ServiceBus.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.WindowsAzure.Configuration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Microsoft.WindowsAzure.ConfigurationManager.3.2.3\lib\net40\Microsoft.WindowsAzure.Configuration.dll</HintPath>
-    </Reference>
     <Reference Include="MigraDoc.DocumentObjectModel, Version=1.32.4334.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
       <HintPath>..\..\packages\PDFsharp-MigraDoc-GDI.1.32.4334.0\lib\net20\MigraDoc.DocumentObjectModel.dll</HintPath>
     </Reference>
@@ -48,7 +42,7 @@
       <HintPath>..\..\packages\PDFsharp-MigraDoc-GDI.1.32.4334.0\lib\net20\MigraDoc.RtfRendering.dll</HintPath>
     </Reference>
     <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\NLog.4.4.9\lib\net45\NLog.dll</HintPath>
+      <HintPath>..\..\packages\NLog.4.3.10\lib\net45\NLog.dll</HintPath>
     </Reference>
     <Reference Include="PdfSharp, Version=1.32.3057.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
       <HintPath>..\..\packages\PDFsharp-MigraDoc-GDI.1.32.4334.0\lib\net20\PdfSharp.dll</HintPath>
@@ -59,8 +53,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
-    <Reference Include="System.Runtime.Serialization" />
-    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Messaging" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -75,9 +68,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileSystem.cs" />
-    <Compile Include="MessageQueueManager.cs" />
-    <Compile Include="PdfDocument.cs" />
     <Compile Include="PhotoProcessingService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -85,6 +75,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonModule\CommonModule.csproj">
+      <Project>{c8019f8a-1d77-461a-b4bd-c570ac8758f0}</Project>
+      <Name>CommonModule</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,5 @@
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\CommonModule\bin\Debug\CommonModule.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\CommonModule\bin\Debug\CommonModule.pdb
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\CommonModule\obj\Debug\CommonModule.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\CommonModule\obj\Debug\CommonModule.dll
+D:\Projects\EPAM.NET Mentoring (D2-D3)\Module5. Message Queues\CommonModule\obj\Debug\CommonModule.pdb

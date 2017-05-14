@@ -1,6 +1,0 @@
-﻿namespace CentralServerService
-{
-    class CentralServerProcessingService
-    {
-    }
-}
