@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="20" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="4.3.33.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[Logger]Logger.LoggerPostSharpAspect">
+    <Instance Declaration="#2=T:[Keygen]Keygen.Keygen" Id="77ecc33e2a5e6f1c">
+      <Target Target="#3=M:[Keygen]Keygen.Keygen::GenerateKey(System.DateTime)">
+        <JoinPoint Advising="#1" Description="#4=Wrapped by advice(s) OnEntry, OnSuccess" Ordinal="0" />
+      </Target>
+      <Target Target="#5=M:[Keygen]Keygen.Keygen::#ctor()">
+        <JoinPoint Advising="#1" Description="#4" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#6=M:[Logger]Logger.LoggerPostSharpAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#7=2" Description="#8=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#9=M:[Logger]Logger.LoggerPostSharpAspect::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#7" Description="#8" />
+</Symbols>

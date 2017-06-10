@@ -22,6 +22,5 @@ D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\de\PdfSharp.resources.dll
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\bin\Debug\de\PdfSharp.Charting.resources.dll
-D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.csprojResolveAssemblyReference.cache
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.exe
 D:\Projects\EPAM.NET Mentoring (D2-D3)\Module4.Windows Services\PhotoScanner\obj\Debug\PhotoScanner.pdb
